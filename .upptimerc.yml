@@ -7,4 +7,5 @@ sites:
 
 status-website:
   name: Upptime for peterkimzz.com
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   cname: upptime.peterkimzz.com
