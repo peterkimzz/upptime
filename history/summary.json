@@ -4,19 +4,19 @@
     "url": "http://peterkimzz.com",
     "icon": "https://favicons.githubusercontent.com/peterkimzz.com",
     "slug": "peterkimzz-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 216,
-    "timeDay": 135,
-    "timeWeek": 241,
-    "timeMonth": 253,
+    "timeDay": 160,
+    "timeWeek": 234,
+    "timeMonth": 251,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2022-09-15": 0,
+      "2022-09-15": 26,
       "2022-03-11": 38
     }
   }
