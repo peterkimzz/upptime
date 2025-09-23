@@ -6,17 +6,15 @@
     "slug": "peterkimzz-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 295,
-    "timeDay": 290,
-    "timeWeek": 348,
-    "timeMonth": 341,
+    "timeDay": 148,
+    "timeWeek": 331,
+    "timeMonth": 342,
     "timeYear": 291,
-    "dailyMinutesDown": {
-      "2025-09-22": 13
-    }
+    "dailyMinutesDown": {}
   }
 ]
