@@ -4,19 +4,19 @@
     "url": "http://peterkimzz.com",
     "icon": "https://icons.duckduckgo.com/ip3/peterkimzz.com.ico",
     "slug": "peterkimzz-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 301,
-    "timeDay": 215,
-    "timeWeek": 273,
-    "timeMonth": 333,
-    "timeYear": 312,
+    "timeDay": 167,
+    "timeWeek": 254,
+    "timeMonth": 326,
+    "timeYear": 311,
     "dailyMinutesDown": {
-      "2025-12-12": 0
+      "2025-12-12": 14
     }
   }
 ]
